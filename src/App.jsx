@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h3>Vite + React</h3>
+      <h3>Country with react</h3>
       <Countries/>
 
     </>
